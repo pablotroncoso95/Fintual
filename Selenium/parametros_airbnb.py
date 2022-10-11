@@ -1,0 +1,5 @@
+destination = "Ciudad de México, México"
+checkin_date = "2022-10-16"
+checkout_date = "2022-10-26"
+adults = "2"
+children = "1"
